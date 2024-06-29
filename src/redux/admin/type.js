@@ -1,0 +1,3 @@
+export default {
+  ADMIN_LOGIN_SUCCESS: "ADMIN_LOGIN_SUCCESS",
+};
